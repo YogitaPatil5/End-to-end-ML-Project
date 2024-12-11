@@ -7,7 +7,7 @@ logging.basicConfig(
     format="[%(asctime)s: %(levelname)s]: %(message)s"
 )
 
-project_name = "mlproject"
+project_name = "mlProject"
 
 list_of_files = [
     f"src/{project_name}/__init__.py",
